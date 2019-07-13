@@ -8,6 +8,9 @@ layout: home
 
 Hi! I’m Arvind Kunday and I like building new things.
 
+I offer free time to startups who need help in Machine Learning, Big Data, Devops, and Customer Experience.
+[Book in Calendly.](https://calendly.com/kunday)
+
 I’m a Staff Engineer, working on Zendesk Sunshine, with the goal of building an open and flexible CRM platform. It’s designed to be AWS native and allows you to connect our platform to your aws services like Kinect natively with minimal effort.
 Before this, I was part of the core team that build Answer Bot and led the product to the first revenue generating Machine Learning (AI) product at Zendesk.
 
